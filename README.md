@@ -5,4 +5,4 @@ Thank you to Panos G. Ipeirotis – https://www.stern.nyu.edu/faculty/bio/panagi
 
 For more information please contact Alex Siegman at alex.siegman@nyu.edu
 
-*Please note that a new repo will be created for each semester of this class as the content, just as the field of data science, is ever evolving. Students, make sure you are in the right place.
+*Please note that a new repo will be created for each semester of this class as the content, just as the field of data science, is ever evolving. Students, make sure you are in the right place!
